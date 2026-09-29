@@ -18,7 +18,6 @@ Handcrafted, SVR	0.790	0.759
 wav2vec2, Ridge	0.843	0.667
 wav2vec2, SVR	0.846	0.662
 Handcrafted + wav2vec2, Ridge	0.851	0.651
-Ensemble	add your CV value	add your CV value
 
 # Notes
 The competition's sample_submission.csv is stale: it has fewer rows than test.csv. The scorer expects one row per test clip, so the notebook builds the submission from test.csv.
